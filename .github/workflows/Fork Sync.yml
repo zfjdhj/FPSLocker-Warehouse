@@ -15,5 +15,5 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           owner: masagrator
-          base: master
-          head: master
+          base: v3
+          head: v3
