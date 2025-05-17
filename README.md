@@ -204,7 +204,7 @@ PATCH AVAILABILITY<br>
 | DAEMON X MACHINA | `0100B6400CA56000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | 🔢 |
 | Danganronpa V3: Killing Harmony | `010063F014176000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) | 🟢 |
 | Dark Souls Remastered | `01004AB00A260000` | `DF3766A2BB651A3E` ([✅](SaltySD/plugins/FPSLocker/patches/01004AB00A260000/DF3766A2BB651A3E.yaml), v3, 1.0.3) | ~~🔐🔢~~ |
-| Darkest Dungeon II | `0100E5E01C098000` | `7931BEF839FFA8F5` (◯, v4, 1.0.4) | 🟢 |
+| Darkest Dungeon II | `0100E5E01C098000` | `C8FF51BF20AC558E` (◯, v5, 1.0.5) | 🟢 |
 | Darksiders Genesis | `0100F2300D4BA000` | `DB17131624D04A9C` ([✅](SaltySD/plugins/FPSLocker/patches/0100F2300D4BA000/DB17131624D04A9C.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | Darksiders Warmastered Edition | `0100E1400BA96000` | `A4CC4C44C07AEC14` (◯, v0, 1.0.0) | 🟢 |
 | Darksiders II Deathinitive Edition | `010071800BA98000` | `173E2EDEA9E5D940` ([✅](SaltySD/plugins/FPSLocker/patches/010071800BA98000/173E2EDEA9E5D940.yaml), v0, 1.0.0) | ~~📏~~ |
@@ -287,7 +287,7 @@ PATCH AVAILABILITY<br>
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | 🔐⏱️🖥️ |
 | Forgive Me Father | `0100A2A01A026000` | `008F995D1A63B383` ([✅](SaltySD/plugins/FPSLocker/patches/0100A2A01A026000/008F995D1A63B383.yaml), v2, 1.5.4.3) | ~~📏🔧~~ |
 | Forrader Hero | `01007C801D5B8000` | `D62574E9298D0AAE` (◯, v0, 1.0) | 🟢 |
-| FREEDOM WARS | `010075201F578000` | `118392F6B2A13754` (❌, v7, 1.7.0) | 🔐⚔️👄🖥️🏃 |
+| FREEDOM WARS | `010075201F578000` | `CC76BB99D209316B` (❌, v8, 1.8.0) | 🔐⚔️👄🖥️🏃 |
 | Fresh Start | `0100AA001BAB8000` | `9B2BC4BAF72D350A` (❌, v0, 1.0.0) | ⚔️ |
 | FROGUN DELUXE EDITION | `0100A0A018D3A000` | `7FA5168E6BEA2A40` (◯, v3, 1.3) | 🟢 |
 | From Space | `010015F018C3C000` | `9806FB67CE24E904` ([✅](SaltySD/plugins/FPSLocker/patches/010015F018C3C000/9806FB67CE24E904.yaml), v3, 1.3.480) | ~~📏~~ |
@@ -330,7 +330,7 @@ PATCH AVAILABILITY<br>
 | GYLT | `0100AC601DCA8000` | `4584432786F462DB` ([✅](SaltySD/plugins/FPSLocker/patches/0100AC601DCA8000/4584432786F462DB.yaml), v2, 1.2) | ~~📏🔧~~ |
 | Hammerwatch Anniversary Edition | `0100321017CC0000` | `D147CAEF2BC74574` ([✅](SaltySD/plugins/FPSLocker/patches/0100321017CC0000/D147CAEF2BC74574.yaml), v3, 1.0.3) | ~~🔐~~ |
 | Hammerwatch 2 | `0100367016DF0000` | `38896FEC1B4ADB1C` ([✅](SaltySD/plugins/FPSLocker/patches/0100367016DF0000/38896FEC1B4ADB1C.yaml), v3, 1.0.4) | ~~🔐~~ |
-| Hamster Playground | `010035901701A000` | `388EF7F085939FC2` (◯, v6, 1.0.6) | 🟢 |
+| Hamster Playground | `010035901701A000` | `ABD7DE2A80629833` (◯, v7, 1.0.7) | 🟢 |
 | HARVESTELLA | `0100521017B2A000` | `249EAB9BF046C5EA` ([✅](SaltySD/plugins/FPSLocker/patches/0100521017B2A000/249EAB9BF046C5EA.yaml), v2, 1.0.2) | ~~🔐📏~~ |
 | HEAVEN SEEKER ――The Savior of This Cruel World | `0100EE00205BA000` | `E7011BF08747297B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/E7011BF08747297B.yaml), v1, 1.0.4.126) <br> `F2D03CFFB8DE5E4C` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/F2D03CFFB8DE5E4C.yaml), v2, 1.0.4.127) <br> `21B3E4EA75F16551` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/21B3E4EA75F16551.yaml), v3, 1.0.5.130) <br> `AA3EDDE660D630AD` ([✅](SaltySD/plugins/FPSLocker/patches/0100EE00205BA000/AA3EDDE660D630AD.yaml), v4, 1.0.5.134) | ~~🛑~~ |
 | Hellblade: Senua's Sacrifice | `010044500CF8E000` | `9B3DDF2FB9100E51` ([✅](SaltySD/plugins/FPSLocker/patches/010044500CF8E000/9B3DDF2FB9100E51.yaml), v1, 1.1.0) | ~~🔐📏~~ |
