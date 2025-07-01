@@ -19,11 +19,11 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 > 🟢 - No issues
 
-> 🔐 - *Internal FPS Lock* - must be removed or adjusted, example: `ABZU`
+> 🔐 - *Internal FPS Lock* - must be removed or adjusted, example: `A Hat in Time`
 
 > 📏 - *Dynamic Resolution* - must be adjusted to target other FPS, example: `SHADOW GENERATIONS`
 
-> ⚔️ - *Double Buffer* - changing it to triple buffer allows staying more often at higher FPS, example: `The Legend of Zelda: Breath of the Wild`. It doesn't include games using two front buffers and one back buffer or games that can be set to triple buffer with Set Buffering in FPSLocker
+> ⚔️ - *Double Buffer* - changing it to triple buffer allows staying more often at higher FPS, example: `The Legend of Zelda: Breath of the Wild`. It doesn't include games that are not rendering double buffer in series, f.e. `The Witcher 3`
 
 > 👄 - *Lipsync* - must be adjusted to work correctly at different FPS, example: `The Legend of Heroes: Trails of Cold Steel 3`
 
@@ -61,7 +61,7 @@ PATCH AVAILABILITY<br>
 | 8-Bit Adventures 2 | `010008B00D682000` | `89777FD8569E563D` (❌, v3, 1.0.3) | ⚔️⏱️ |
 | A Hat in Time | `010056E00853A000` | `746F0D697EEEE2DD` ([✅](SaltySD/plugins/FPSLocker/patches/010056E00853A000/746F0D697EEEE2DD.yaml), v4, 1.0.4) | ~~🔐~~ |
 | ABYSS SEEKER――What Do You See Deep in Abyss | `01003990220BE000` | `C17F9C48EEFAB9DF` ([✅](SaltySD/plugins/FPSLocker/patches/01003990220BE000/C17F9C48EEFAB9DF.yaml), v0, 1.1.0.012) <br> `FE67FB035271B5E4` ([✅](SaltySD/plugins/FPSLocker/patches/01003990220BE000/FE67FB035271B5E4.yaml), v1, 1.2.0.020) | ~~🛑~~ |
-| ABZU | `0100C1300BBC6000` | `59719CFCD1671B98` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1300BBC6000/59719CFCD1671B98.yaml), v0, 1.0.0) | ~~🔐~~ |
+| ABZU | `0100C1300BBC6000` | `59719CFCD1671B98` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1300BBC6000/59719CFCD1671B98.yaml), v1, 1.0.01) | ~~🔧~~ |
 | ACE COMBAT™7 SKIES UNKNOWN | `0100E3401D660000` | `FDBEE885A65A2B92` ([✅](SaltySD/plugins/FPSLocker/patches/0100E3401D660000/FDBEE885A65A2B92.yaml), v0, 1.0.0) | ~~🔐🔧~~ |
 | Achilles Legends Untold | `01007BE01FCC2000` | `BDDD7E8FA07C8C75` ([✅](SaltySD/plugins/FPSLocker/patches/01007BE01FCC2000/BDDD7E8FA07C8C75.yaml), v1, 1.0.1) | ~~📏🔧~~ |
 | Advance Wars 1+2: Re-Boot Camp | `0100300012F2A000` | `320A17744AEFD67F`  ([✅](SaltySD/plugins/FPSLocker/patches/0100300012F2A000/320A17744AEFD67F.yaml), v0, 1.0.0) | ~~🔐~~ |
