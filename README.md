@@ -170,7 +170,7 @@ PATCH AVAILABILITY<br>
 | Cars 3: Driven to Win | `0100744001588000` | `6E191829548C2A41` (❌, v2, 1.0.2) | ⚔️ |
 | Cassette Beasts | `010066F01A0E0000` | `65688736640651F6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/58C1B2EA8257D5F1.yaml), v9, 1.6.3) <br> `2C58E765387F9DDA` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/2C58E765387F9DDA.yaml), v10, 1.6.4) <br> `F09EAE79357E3032` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/F09EAE79357E3032.yaml), v12, 1.7.1) <br> `153D5A2ABB9C0BA6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/153D5A2ABB9C0BA6.yaml), v13, 1.7.2) <br> `B5DCAAA828DA5034` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/B5DCAAA828DA5034.yaml), v14, 1.8.0) <br> `768428355C994280` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/768428355C994280.yaml), v15, 1.8.2) | ~~🔐🏃~~ |
 | Castle Renovator | `010013801A0E4000` | `34E094252A069FE9` (◯, v0, 1.0.0) | 🟢 |
-| Cat Quest III | `010088501B8F2000` | `8A0B017F949C3F43` (◯, v12, 1.4.1) | 🟢 |
+| Cat Quest III | `010088501B8F2000` | `3377D2A4C4565489` (◯, v13, 1.4.2) | 🟢 |
 | Catherine: Full Body | `0100BF00112C0000` | `93A79C77DA81F7F1` (❌, v1, 1.0.1) | ⏱️🖥️ |
 | Cel Damage HD | `010019B00BE72000` | `03B058B1F6BE7195` ([✅](SaltySD/plugins/FPSLocker/patches/010019B00BE72000/03B058B1F6BE7195.yaml), v0, 1.0.0) | ~~🔐~~🌤️ |
 | Chants of Sennaar | `0100543019CB0000` | `4965231C2C9FA6D3` (◯, v3, 1.0.3) | 🟢 |
@@ -540,7 +540,7 @@ PATCH AVAILABILITY<br>
 | Rain World | `010047600BF72000` | `BEC01A3CE1E33E93` (◯, v8, 1.9.13) | 🟢 |
 | RAINBOW HIGH: RUNWAY RUSH | `010039E0182D8000` | `8ECB01C6E7E4F50C` (◯, v0, 1.0.0) | 🟢 |
 | Raji: An Ancient Epic | `010010B00DDA2000` | `8A39E660F956BB00` ([✅](SaltySD/plugins/FPSLocker/patches/010010B00DDA2000/8A39E660F956BB00.yaml), v4, 1.0.4) | ~~📏~~ |
-| Ravenswatch | `0100E6701DF4E000` | `93099EDD47B0BEB7` (◯, v6, 1.6.0) | 🟢 |
+| Ravenswatch | `0100E6701DF4E000` | `F3C5A9EAA1F61CD1` (◯, v7, 1.7.0) | 🟢 |
 | realMyst: Masterpiece Edition | `0100E64010BAA000` | `31E49EEA600A6248` (◯, v3, 1.0.3) | 🟢 |
 | Red Dead Redemption | `01007820196A6000` | `37531419DA7654EC` (◯, v4, 1.0.4) | 🟢 |
 | Redemption Reapers | `010073F0197DA000` | `955DF07AA5F4497B` ([✅](SaltySD/plugins/FPSLocker/patches/010073F0197DA000/955DF07AA5F4497B.yaml), v7, 1.4.0) | ~~🔐📏~~ |
@@ -683,7 +683,7 @@ PATCH AVAILABILITY<br>
 | The Outer Worlds | `0100626011656000` | `761CD556AB357C87` ([✅](SaltySD/plugins/FPSLocker/patches/0100626011656000/761CD556AB357C87.yaml), v5, 1.0.5) | ~~📏~~ |
 | The Settlers: New Allies | `0100F3200E7CA000` | `EAA0B789264F2A75` ([✅](SaltySD/plugins/FPSLocker/patches/0100F3200E7CA000/EAA0B789264F2A75.yaml), v7, 1.0.7) | ~~🔐📏~~ |
 | The Sinking City | `010028D00BA1A000` | `85E49C169A8B988A` ([✅](SaltySD/plugins/FPSLocker/patches/010028D00BA1A000/85E49C169A8B988A.yaml), v2, 1.2.0) | ~~📏~~ |
-| The Smurfs - Dreams | `01008E401E6D0000` | `C124FFD193F533B4` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/C124FFD193F533B4.yaml), v1, 1.0.1) <br> `E08769D5B56A5A25` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/E08769D5B56A5A25.yaml), v2, 1.0.2) | ~~📏🔧~~ |
+| The Smurfs - Dreams | `01008E401E6D0000` | `C124FFD193F533B4` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/C124FFD193F533B4.yaml), v1, 1.0.1) <br> `E08769D5B56A5A25` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/E08769D5B56A5A25.yaml), v3, 1.0.3) | ~~🔧~~ |
 | The Smurfs Mission Vileaf | `010040A01407E000` | `BBBBB9891F01415E` (◯, v4, 1.0.19.1) | 🟢 |
 | The Smurfs 2: The Prisoner of the Green Stone | `010073C01B7FE000` | `F294A4EBE966E8A9` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01B7FE000/F294A4EBE966E8A9.yaml), v3, 1.03.03) | ~~📏🔧~~ |
 | The Stone of Madness | `01000F101B672000` | `C82ABBD51E4843F8` (◯, v3, 1.0.3) | 🟢 |
