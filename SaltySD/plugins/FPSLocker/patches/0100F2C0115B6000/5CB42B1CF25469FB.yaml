@@ -101,7 +101,7 @@ MASTER_WRITE:
     main_offset: 0x2D4EC8
     value_type: uint32
     value: 
-      - 0x9001BA03
+      - 0x9001BFC3
       - 0x393FEC60
       - 0x1402136D # B nn::oe::SetUserInactivityDetectionTimeExtended(bool)
   # Adjust DR timing to factor from MAIN + 0x3ACCFF4
