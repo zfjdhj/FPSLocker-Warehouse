@@ -7,6 +7,8 @@ Read SaltyNX readme to check which games are not compatible.
 
 ---
 
+> IT IS RECOMMENDED TO USE OVERLAY'S BUILTIN OPTION TO DOWNLOAD CONFIG! Some games may require additional files to fix certain issues (f.e. compatibility with romfs mods in Tears of The Kingdom), using builtin option is a sure way to download all needed files at once!
+
 > To download all configs click [here](https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
 
 ---
@@ -50,7 +52,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
 ❌ - patch not available<br>
-✅ - patch available (click on it for config file that can be converted to patch).<br>
+✅ - patch available (click on it for config file that can be converted to patch, config file may require additional files that are listed in "addons" entry inside config).<br>
 ◯ - this version doesn't need a patch
 
 ---
