@@ -302,7 +302,7 @@ PATCH AVAILABILITY<br>
 | Fueled Up | `010022A01E1F0000` | `F0F6265AEBF4AE2C` (◯, v0, 1.0.0) | 🟢 |
 | Funko Fusion | `010058F01DF8C000` | `E6B427227FED8411` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/E6B427227FED8411.yaml), v1, 2.3.0) <br> `E6B427227FED8411` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/E6B427227FED8411.yaml), v2, 2.4.0) <br> `BDB53001D5CAD0AE` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/BDB53001D5CAD0AE.yaml), v3, 2.6.2) <br> `F5E599C889DF733A` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/F5E599C889DF733A.yaml), v4, 3.1.1) | ~~📏🔧~~ | 
 | Gal*Gun Returns | `0100047013378000` | `7E65E5BC3564BE46` ([✅](SaltySD/plugins/FPSLocker/patches/0100047013378000/7E65E5BC3564BE46.yaml), v4, 1.0.4) | ~~🔐👄🖥️~~⚔️ |
-| Gal*Gun: Double Peace | `01006FE016FB2000` | `191B397CA0310A18` ([✅](SaltySD/plugins/FPSLocker/patches/01006FE016FB2000/191B397CA0310A18.yaml), v2, 1.0.2) | ~~🔐~~ |
+| Gal*Gun: Double Peace | `01006FE016FB2000` | `191B397CA0310A18` ([✅](SaltySD/plugins/FPSLocker/patches/01006FE016FB2000/191B397CA0310A18.yaml), v2, 1.0.2) | ~~🔐~~⚔️ |
 | ぎゃる☆がん２ | `0100803005D52000` | `62B7F19804BCB70E` ([✅](SaltySD/plugins/FPSLocker/patches/0100803005D52000/62B7F19804BCB70E.yaml), v4, 1.0.4) | ~~🔐🔧~~ |
 | Gal*Gun 2 | `010024700901A000` | `9CDFB0CD24CAE030` ([✅](SaltySD/plugins/FPSLocker/patches/010024700901A000/9CDFB0CD24CAE030.yaml), v4, 1.0.4) | ~~🔐🔧~~ |
 | Gamedec - Definitive Edition | `01002A501869E000` | `BFA92380757EF97D` ([✅](SaltySD/plugins/FPSLocker/patches/01002A501869E000/BFA92380757EF97D.yaml), v3, 1.3.0) | ~~🔐📏~~ |
@@ -414,7 +414,7 @@ PATCH AVAILABILITY<br>
 | LIVE A LIVE | `0100CF801776C000` | `CF22083371DDACB2` (◯, v1, 1.0.1) | 🟢 |
 | Lost In Random | `01005FE01291A000` | `416914C121775277` (◯, v1, 1.0.1) | 🟢 |
 | LOST SPHEAR | `010077B0038B2000` | `641A9243BA35C638` (◯, v5, 1.3.1) | 🟢 |
-| Luigi's Mansion 3 | `0100DCA0064A6000` | `79E5950FFA85ACF6` ([✅](SaltySD/plugins/FPSLocker/patches/0100DCA0064A6000/79E5950FFA85ACF6.yaml), v5, 1.4.0) | ~~🔐~~ |
+| Luigi's Mansion 3 | `0100DCA0064A6000` | `79E5950FFA85ACF6` ([✅](SaltySD/plugins/FPSLocker/patches/0100DCA0064A6000/79E5950FFA85ACF6.yaml), v5, 1.4.0) | ~~🔐~~📏 |
 | Lysfanga: The Time Shift Warrior | `0100ED601B876000` | `3B47E57FD8B8EE7B` (◯, v2, 1.0.2) | 🟢 |
 | Maglam Lord | `01002C0015644000` | `3A3C781930CB8201` ([✅](SaltySD/plugins/FPSLocker/patches/01002C0015644000/3A3C781930CB8201.yaml), v0, 1.00) | ~~🔐📏~~🏃 |
 | Maquette | `0100861018480000` | `B0F09EE3E404D549` (❌, v0, 1.0.0) | ⚔️ |
@@ -440,9 +440,9 @@ PATCH AVAILABILITY<br>
 | MONARK | `0100E4A01548C000` | `85EB6295023DD394` (◯, v1, 1.0.1) | 🟢 |
 | MONOPOLY | `01002C201BC40000` | `1AAA3C7D76026D29` (◯, v5, 1.5) | 🟢 |
 | Monster Hunter Generations Ultimate | `0100770008DD8000` | `FB08F1D20FD1204F` ([✅](SaltySD/plugins/FPSLocker/patches/0100770008DD8000/FB08F1D20FD1204F.yaml), v4, 1.4.0) | ~~🔐~~ |
+| モンスターハンターダブルクロス | `0100C3800049C000` | `9D4C86E6EF74504A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C3800049C000/9D4C86E6EF74504A.yaml), v6, 1.5.1) | ~~🔐~~ |
 | Monster Hunter Rise `GLOBAL` | `0100B04011742000` | `C9A3DD7702075ECD` ([✅](SaltySD/plugins/FPSLocker/patches/0100B04011742000/C9A3DD7702075ECD.yaml), v34, 16.0.2) | ~~🔐~~ |
 | Monster Hunter Rise `JPN` | `0100559011740000` | `D2FD97779381FB9A` ([✅](SaltySD/plugins/FPSLocker/patches/0100559011740000/D2FD97779381FB9A.yaml), v34, 16.0.2) | ~~🔐~~ |
-| モンスターハンターダブルクロス | `0100C3800049C000` | `9D4C86E6EF74504A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C3800049C000/9D4C86E6EF74504A.yaml), v6, 1.5.1) | ~~🔐~~ |
 | Monster Jam Showdown | `0100CE101B698000` | `AFE59FDFAC191EBD` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/AFE59FDFAC191EBD.yaml), v1, 1.0.1) <br> `820B3E993D6FE8E1` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/820B3E993D6FE8E1.yaml), v2, 1.0.2) <br> `9035B7A14BADF977` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/9035B7A14BADF977.yaml), v3, 1.0.3) <br> `C4950585861A47EE` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/C4950585861A47EE.yaml), v4, 1.0.4) <br> `D07D96A610514C45` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/D07D96A610514C45.yaml), v5, 1.0.5) <br> `35FC3A7D13060376` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/35FC3A7D13060376.yaml), v6, 1.0.6) <br> `0CE2AE41BCCADC72` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/0CE2AE41BCCADC72.yaml), v7, 1.0.7) <br> `1CE1386EAF0C5EF5` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/1CE1386EAF0C5EF5.yaml), v8, 1.0.8) | ~~📏🔧~~ |
 | Monster Jam Steel Titans | `010095C00F354000` | `8CA6136CF49F1A4F` (◯, v1, 1.0.1) | 🟢 |
 | Monster Jam Steel Titans 2 | `010051B0131F0000` | `E0E9D0429A2458E1` ([✅](SaltySD/plugins/FPSLocker/patches/010051B0131F0000/E0E9D0429A2458E1.yaml), v2, 1.0.2) | ~~📏~~ |
@@ -795,7 +795,7 @@ PATCH AVAILABILITY<br>
 | Borderlands 3 | `01009970122E4000` | `AE2768797E3337EE` ([✅](SaltySD/plugins/FPSLocker/patches/01009970122E4000/AE2768797E3337EE.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | Caravan SandWitch | `0100D5801E904000` | `CE493FC8CDD3D7B2` ([✅](SaltySD/plugins/FPSLocker/patches/0100D5801E904000/CE493FC8CDD3D7B2.yaml), v5, 1.0.5) | ~~📏~~ |
 | City of Brass | `01009BC00B872000` | `53116900DC7BBE11` ([✅](SaltySD/plugins/FPSLocker/patches/01009BC00B872000/53116900DC7BBE11.yaml), v2, 1.2.0) | ~~📏🔧~~ |
-| Misc. A Tiny Tale | `0100A5E014196000` | `0E9D849EF47198D8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/0E9D849EF47198D8.yaml), v5, 1.0.4) | ~~📏🔧~~ |
+| Misc. A Tiny Tale | `0100A5E014196000` | `0E9D849EF47198D8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/0E9D849EF47198D8.yaml), v5, 1.0.4) <br> `D24A46A2618C9E38` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/D24A46A2618C9E38.yaml), v6, 1.0.5) | ~~📏🔧~~ |
 | Mortal Shell | `0100154019A7C000` | `6D9F6C7B79F5197F` ([✅](SaltySD/plugins/FPSLocker/patches/0100154019A7C000/6D9F6C7B79F5197F.yaml), v2, 1.2.0) | ~~📏~~ |
 | NINJA GAIDEN: Ragebound | `0100781020710000` | `C7BD9BFC5F202073` ([✅](SaltySD/plugins/FPSLocker/patches/0100781020710000/C7BD9BFC5F202073.yaml), v3, 1.0.3) | ~~🛑~~ |
 | RiMS Racing | `01003CD01299E000` | `4232D493269475B2` ([✅](SaltySD/plugins/FPSLocker/patches/01003CD01299E000/4232D493269475B2.yaml), v2, 1.2.0) | ~~📏~~ |
