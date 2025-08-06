@@ -308,6 +308,7 @@ PATCH AVAILABILITY<br>
 | Gamedec - Definitive Edition | `01002A501869E000` | `BFA92380757EF97D` ([✅](SaltySD/plugins/FPSLocker/patches/01002A501869E000/BFA92380757EF97D.yaml), v3, 1.3.0) | ~~🔐📏~~ |
 | Garden Witch Life | `0100B6C01CDA0000` | `01660DB6F4D0FA81` ([✅](SaltySD/plugins/FPSLocker/patches/0100B6C01CDA0000/01660DB6F4D0FA81.yaml), v3, 1.0.3) <br> `CFC1C6A56575F83A` ([✅](SaltySD/plugins/FPSLocker/patches/0100B6C01CDA0000/CFC1C6A56575F83A.yaml), v4, 1.0.4) <br> `13824B290C931FE5` ([✅](SaltySD/plugins/FPSLocker/patches/0100B6C01CDA0000/13824B290C931FE5.yaml), v5, 1.0.5) | ~~🔧~~ |
 | Garfield Kart Furious Racing | `010061E00E8BE000` | `4A67AFB9EAC0DF44` (◯, v3, 1.0.3) | 🟢 |
+| Gear.Club Unlimited | `010065E003FD8000` | `CD94FCB8CC23B24A` (◯, v2, 1.2.0) | 🟢 |
 | Gear.Club Unlimited 2 | `010072900AFF0000` | `FE757810B45C3444` ([✅](SaltySD/plugins/FPSLocker/patches/010072900AFF0000/FE757B10B45C3444.yaml), v14, 1.7.2) | ~~🔐📏🌤️~~ |
 | GetsuFumaDen: Undying Moon | `010042A013DB8000` | `8683E654CCD68852` (❌, v2, 1.1.1) | 📏 |
 | Ghostbusters: Spirits Unleashed Ecto Edition | `01005D2016934000` | `579CCC60D8E3DAF1` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/579CCC60D8E3DAF1.yaml), v5, 1.8.0) <br> `4D6E50FF58BF7486` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/4D6E50FF58BF7486.yaml), v6, 1.9.0) <br> `090A100AA49CE00F` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/090A100AA49CE00F.yaml), v7, 1.10.0) <br> `49F6F257348A42A1` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/49F6F257348A42A1.yaml), v8, 1.11.0) | ~~📏🔧~~ |
@@ -539,6 +540,7 @@ PATCH AVAILABILITY<br>
 | Princess Peach Showtime! | `01007A3009184000` | `928EFE2954F68055` ([✅](SaltySD/plugins/FPSLocker/patches/01007A3009184000/928EFE2954F68055.yaml), v0, 1.0.0) | ~~📏🔧~~ |
 | Prison Simulator | `010094C017B06000` | `56C709E1A63CF9EA` (◯, v0, 1.0.0) | 🟢 |
 | Project Warlock | `0100BDB01150E000` | `D597DE8544D8ED4F` (◯, v4, 1.0.4) | 🟢 |
+| Pumpkin Jack | `01006C10131F6000` | `0F73F1D52820F90B` ([✅](SaltySD/plugins/FPSLocker/patches/01006C10131F6000/0F73F1D52820F90B.yaml), v4, 1.4.4) | ~~🔐🔧~~ |
 | Raccoo Venture | `0100C1E01CDEE000` | `27BB06DD145F39F5` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1E01CDEE000/27BB06DD145F39F5.yaml), v3, 1.0.3) | ~~🔐🏃~~ |
 | Rad Rogers: Radical Edition | `010000600CD54000` | `78885A1CA987C04C` ([✅](SaltySD/plugins/FPSLocker/patches/010000600CD54000/78885A1CA987C04C.yaml), v2, 1.2.0) | ~~🔐~~ |
 | Rain World | `010047600BF72000` | `BEC01A3CE1E33E93` (◯, v8, 1.9.13) | 🟢 |
@@ -792,6 +794,7 @@ PATCH AVAILABILITY<br>
 | --- | --- | --- | --- |
 | Borderlands 3 | `01009970122E4000` | `AE2768797E3337EE` ([✅](SaltySD/plugins/FPSLocker/patches/01009970122E4000/AE2768797E3337EE.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | Caravan SandWitch | `0100D5801E904000` | `CE493FC8CDD3D7B2` ([✅](SaltySD/plugins/FPSLocker/patches/0100D5801E904000/CE493FC8CDD3D7B2.yaml), v5, 1.0.5) | ~~📏~~ |
+| City of Brass | `01009BC00B872000` | `53116900DC7BBE11` ([✅](SaltySD/plugins/FPSLocker/patches/01009BC00B872000/53116900DC7BBE11.yaml), v2, 1.2.0) | ~~📏🔧~~ |
 | Misc. A Tiny Tale | `0100A5E014196000` | `0E9D849EF47198D8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5E014196000/0E9D849EF47198D8.yaml), v5, 1.0.4) | ~~📏🔧~~ |
 | Mortal Shell | `0100154019A7C000` | `6D9F6C7B79F5197F` ([✅](SaltySD/plugins/FPSLocker/patches/0100154019A7C000/6D9F6C7B79F5197F.yaml), v2, 1.2.0) | ~~📏~~ |
 | NINJA GAIDEN: Ragebound | `0100781020710000` | `C7BD9BFC5F202073` ([✅](SaltySD/plugins/FPSLocker/patches/0100781020710000/C7BD9BFC5F202073.yaml), v3, 1.0.3) | ~~🛑~~ |
