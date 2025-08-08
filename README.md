@@ -660,12 +660,13 @@ PATCH AVAILABILITY<br>
 | Tales of Kenzera: TAU | `01005C7015D30000` | `110D8FB47B55EA19` ([✅](SaltySD/plugins/FPSLocker/patches/01005C7015D30000/110D8FB47B55EA19.yaml), v4, 1.4.0) <br> `9E7FB72540D748BA` ([✅](SaltySD/plugins/FPSLocker/patches/01005C7015D30000/9E7FB72540D748BA.yaml), v5, 1.5.0) | ~~🔧~~ |
 | Tales from the Borderlands | `0100F0C011A68000` | `818C98B885460561` (◯, v0, 1.0.0) | 🟢 |
 | Tales of Graces f Remastered | `01005E701D168000` | `49700C9DA58DAD47` (◯, v3, 1.0.3) | 🟢 |
-| Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | ⏱️🖥️ |
+| Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | ⏱️🖥️⚔️ |
 | Tamagotchi Plaza | `010040601A9B8000` | `9ACE779510EC93C9` ([✅](SaltySD/plugins/FPSLocker/patches/010040601A9B8000/9ACE779510EC93C9.yaml), v2, 1.0.2) | ~~🔐~~ |
 | Taxi Chaos | `0100B76011DAA000` | `C5D73D3EDAADACB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100B76011DAA000/C5D73D3EDAADACB2.yaml), v2, 1.0.3) | ~~🔐📏~~ |
 | TCG Card Market Simulator | `01001560214B8000` | `15532623187C22FF` (◯, v1, 1.0.1) | 🟢 |
 | Tchia | `0100CEE01D23C000` | `76B6E5E830A43D97` ([✅](SaltySD/plugins/FPSLocker/patches/0100CEE01D23C000/76B6E5E830A43D97.yaml), v1, 1.1) | ~~📏🔧~~ |
 | Team Sonic Racing | `010084B00B36E000` | `7D942261130F42A7` (◯, v3, 1.0.3) | 🟢 |
+| Team Sonic Racing `US` | `010092B0091D0000` | `AD75285A65EB6FFD` (◯, v2, 1.0.3) | 🟢 |
 | Terraformers | `0100C1B01872A000` | `EFA897C8B97F1C9E` (◯, v6, 1.6.21) | 🟢 |
 | The Bridge Curse - Road to Salvation | `01006BD019A78000` | `F54FC539CAF24C64` ([✅](SaltySD/plugins/FPSLocker/patches/01006BD019A78000/F54FC539CAF24C64.yaml), v1, 1.6.0.1) | ~~🔧~~ |
 | The Bridge Curse 2: The Extrication | `010033501FF38000` | `B7F344920B6D140E` ([✅](SaltySD/plugins/FPSLocker/patches/010033501FF38000/B7F344920B6D140E.yaml), v1, 1.0.1) | ~~🔧~~ |
@@ -678,7 +679,7 @@ PATCH AVAILABILITY<br>
 | The Forest Quartet | `010010A01BBF4000` | `47A022F858BA09B1` ([✅](SaltySD/plugins/FPSLocker/patches/010010A01BBF4000/47A022F858BA09B1.yaml), v2, 4.0.2) | ~~📏~~ |
 | The Great Ace Attorney Chronicles `GLOBAL` | `010036E00FB20000` | `1DA748FC9499882F` ([✅](SaltySD/plugins/FPSLocker/patches/010036E00FB20000/1DA748FC9499882F.yaml), v0, 1.0.0) | ~~🔐~~ |
 | The Great Ace Attorney Chronicles `ASIA` | `0100D7F00FB1A000` | `D871B992E95B71C5` ([✅](SaltySD/plugins/FPSLocker/patches/0100D7F00FB1A000/D871B992E95B71C5.yaml), v0, 1.0.0) | ~~🔐~~ |
-| The Hundred Line -Last Defense Academy- | `010093C0215B4000` | `7816CA5FECA60315` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/7816CA5FECA60315.yaml), v2, 1.0.3) <br> `26350BBA224575AE` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/26350BBA224575AE.yaml), v4, 1.0.5) <br> `5AF690F4A8BFCC67` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/5AF690F4A8BFCC67.yaml), v5, 1.0.6) <br> `EAADF33F510C5853` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/EAADF33F510C5853.yaml), v6, 1.1.1) | ~~🔐~~ |
+| The Hundred Line -Last Defense Academy- | `010093C0215B4000` | `7816CA5FECA60315` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/7816CA5FECA60315.yaml), v2, 1.0.3) <br> `26350BBA224575AE` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/26350BBA224575AE.yaml), v4, 1.0.5) <br> `5AF690F4A8BFCC67` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/5AF690F4A8BFCC67.yaml), v5, 1.0.6) <br> `EAADF33F510C5853` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/EAADF33F510C5853.yaml), v6, 1.1.1) <br> `D1D3FFB94AB458B4` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/D1D3FFB94AB458B4.yaml), v7, 1.1.2) | ~~🔐~~ |
 | The Knight Witch | `0100E8501816E000` | `9C09F15234A270E4` (◯, v5, 1.0.5) | 🟢 |
 | The Last Worker | `0100ADC014CDE000` | `DAAADE43EA48F66B` (◯, v2, 1.0.4) | 🟢 |
 | The Legend of Heroes: Trails into Reverie | `01008CB0156BC000` | `7735C8DD89D145F2` ([✅](SaltySD/plugins/FPSLocker/patches/01008CB0156BC000/7735C8DD89D145F2.yaml), v4, 1.0.4) | ~~🔐👄⏱️🖥️🔧~~ |
@@ -758,7 +759,7 @@ PATCH AVAILABILITY<br>
 | WitchSpringR | `010018401EEA8000` | `0A6D6FD636EC9D2B` (◯, v3, 1.0.5) | 🟢 |
 | Wolfenstein: Youngblood | `01003BD00CAAE000` | `8B40EBBA7244C94A` ([✅](SaltySD/plugins/FPSLocker/patches/01003BD00CAAE000/8B40EBBA7244C94A.yaml), v5, 1.5) | ~~📏⏱️🖥️~~ |
 | Wolfenstein II: The New Colossus | `01009040091E0000` | `F2FE5EF877839F4F` ([✅](SaltySD/plugins/FPSLocker/patches/01009040091E0000/F2FE5EF877839F4F.yaml), v2, 1.2) | ~~📏⏱️🖥️~~ |
-| WORLD OF FINAL FANTASY MAXIMA | `010072000BD32000` | `5767FD44C331B44B` (❌, v1, 1.0.1) | 👄📺 |
+| WORLD OF FINAL FANTASY MAXIMA | `010072000BD32000` | `5767FD44C331B44B` (❌, v1, 1.0.1) | ⚔️👄📺 |
 | WRATH Aeon of Ruin | `0100C1E00CF30000` | `9587F6793464E033` (◯, v3, 1.0.3) | 🟢 |
 | WRC10 | `01003E3014AFE000` | `69CACEEC5F01C41B` ([✅](SaltySD/plugins/FPSLocker/patches/01003E3014AFE000/69CACEEC5F01C41B.yaml), v1, 1.1.0) | ~~📏~~ |
 | WRC Generations | `0100041018810000` | `B8BE1CFAE53CAEBE` ([✅](SaltySD/plugins/FPSLocker/patches/0100041018810000/B8BE1CFAE53CAEBE.yaml), v4, 1.2.2) | ~~📏~~ |
@@ -782,6 +783,7 @@ PATCH AVAILABILITY<br>
 | Zomborg | `01006401D48A000` | `A371513D3E16409B` (◯, v0, 1.0.0) | 🟢 |
 | 妖怪ウォッチ | `0100C0000CEEA000` | `B6E172353E696E65` ([✅](SaltySD/plugins/FPSLocker/patches/0100C0000CEEA000/B6E172353E696E65.yaml), v3, 1.3.0) | ~~🔐🏃~~ |
 | 妖怪ウォッチ4++ | `010086C00AF7C000` | `C7DAB27F22ACD2ED` ([✅](SaltySD/plugins/FPSLocker/patches/010086C00AF7C000/C7DAB27F22ACD2ED.yaml), v14, 2.2.0) | ~~🔐~~⚔️ |
+| 妖怪学園Y ～ワイワイ学園生活～ | `010051D010FC2000` | `1DF8D13059E84915` (❌, v10, 4.0.0) | 🔐⚔️ |
 | 英雄伝説 閃の軌跡I<br>改 -Thors Military Academy 1204- | `0100AD0014AB4000` | `AC8C8EC9DB1A8EF4` ([✅](SaltySD/plugins/FPSLocker/patches/0100AD0014AB4000/AC8C8EC9DB1A8EF4.yaml), v3, 1.0.3) | ~~🔐~~ |
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~🔐~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~📏🔧~~ |
