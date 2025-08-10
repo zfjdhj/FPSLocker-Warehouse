@@ -149,7 +149,7 @@ PATCH AVAILABILITY<br>
 | Boomerang X | `0100C09014530000` | `D92F465FE9920BB6` ([✅](SaltySD/plugins/FPSLocker/patches/0100C09014530000/D92F465FE9920BB6.yaml), v2, 1.0.2) | ~~📏~~ |
 | Borderlands | `010064800F66A000` | `1C37C3673E0E4E7A` (◯, v2, 1.0.2) | 🟢 |
 | Borderlands 2 | `010096F00FF22000` | `F7C233469F20EE3F` (◯, v2, 1.0.2) | 🟢 |
-| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (◯, v1, 1.0.1) | 🟢 |
+| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (❌, v1, 1.0.1) | 📏 |
 | Boti: Byteland Overclocked | `0100B7C01D480000` | `CCBDDB69038F76FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/CCBDDB69038F76FC.yaml), v0, 1.0.0) <br> `E8EA74BE6221F2E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/E8EA74BE6221F2E4.yaml), v1, 1.0.1) <br> `567A8410AE613885` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/567A8410AE613885.yaml), v2, 1.0.2) <br> `8A942A9E838E5083` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/8A942A9E838E5083.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | BPM: Bullets Per Minute | `0100040016EE2000` | `331E3DFBDF650226` ([✅](SaltySD/plugins/FPSLocker/patches/0100040016EE2000/331E3DFBDF650226.yaml), v1, 0.1) | ~~📏🔧~~ |
 | Bramble The Mountain King | `0100E87017D0E000` | `ACF3FF125C2A3E68` ([✅](SaltySD/plugins/FPSLocker/patches/0100E87017D0E000/ACF3FF125C2A3E68.yaml), v5, 1.0.7) | ~~📏~~ |
@@ -369,6 +369,7 @@ PATCH AVAILABILITY<br>
 | In rays of the Light | `0100A760129A0000` | `AB4C861FD0C87F47` (◯, v2, 1.0.2) | 🟢 |
 | In Sound Mind | `01006DF014682000` | `5FCC5A8EDF6244C4` (❌, v4, 1.0.4) | 📏 |
 | Inertial Drift | `01002BD00F626000` | `4C277E67AB50D547` (◯, v10, 1.2.1) | 🟢 |
+| Infinity Strash: DRAGON QUEST The Adventure of Dai | `01006FA018D40000` | `DB7E474BEFABB6A0` (❌, v2, 1.0.2) | 📏🔧 |
 | INMOST | `0100F1401161E000` | `16CEFEA33FE6E24F` (❌, v6, 1.0.4.3) | 📏 |
 | Insomnis | `01001CF0190C2000` | `4C6727375D877B90` ([✅](SaltySD/plugins/FPSLocker/patches/01001CF0190C2000/4C6727375D877B90.yaml), v1, 1.01) | ~~📏~~ |
 | Ion Fury | `010041C00D086000` | `9D2EFCF198F2247F` (◯, v4, 1.07.1) | ~~🔐~~ |
@@ -493,6 +494,7 @@ PATCH AVAILABILITY<br>
 | Oninaki | `01001AF00CE54000` | `C949E2576F532C43` (◯, v2, 1.0.2) | 🟢 |
 | Open Roads | `010034401672A000` | `1C651256CC812D06` (◯, v2, 1.0.2) | 🟢 |
 | Operation: Polygon Storm | `010084501F592000` | `3025AF1CB2515489` (◯, v2, 1.0.2) | 🟢 |
+| OPUS: Echo of Starsong | `01009B601676C000` | `BFF92D9D3F4CE84D` (◯, v4, 2.3.2f2) | 🟢 |
 | Othercide | `0100E5900F49A000` | `A8BA2A8F93AAE647` ([✅](SaltySD/plugins/FPSLocker/patches/0100E5900F49A000/A8BA2A8F93AAE647.yaml), v4, 1.3.1.0) | ~~📏~~ |
 | Outer Wilds | `01003DC0144B6000` | `CD9AF768102ED946` (❌, v5, 1.1.15.1027) | 📏🛑🔧 |
 | Outlast | `01008D4007A1E000` | `C3D46BB3C7059DB1` ([✅](SaltySD/plugins/FPSLocker/patches/01008D4007A1E000/C3D46BB3C7059DB1.yaml), v1, 1.0.1) | ~~⚔️~~ |
